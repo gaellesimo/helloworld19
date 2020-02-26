@@ -1,4 +1,4 @@
 # maven-project
 
 Simple Maven Project
-This is a GAGA full CI
+This is a GAGA S full CI
